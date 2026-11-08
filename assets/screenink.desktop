@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ScreenInk
+GenericName=Screen Annotation Tool
+Comment=Live screen drawing and annotation tool for presenters and educators
+Exec=screenink
+Icon=screenink
+Terminal=false
+Type=Application
+Categories=Utility;Graphics;Presentation;
+Keywords=screen;draw;annotation;presenter;ink;
+StartupNotify=true
