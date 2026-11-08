@@ -41,7 +41,7 @@ Download official production builds of **ScreenInk v1.0.0** for your operating s
 
 | Operating System | Architecture | Package Format | Recommended For | Direct Download Link | Package Size | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 🐧 **Linux** | `x86_64` (amd64) | **`.deb`** | Ubuntu 20.04+, Debian 11+, Linux Mint | [📥 **Download .deb**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Linux.deb) | `~8.4 MB` | 🟢 Stable |
+| 🐧 **Linux** | `x86_64` (amd64) | **`.deb`** | Ubuntu 20.04+, Debian 11+, Linux Mint | [📥 **Download .deb**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Linux.deb) | `344 KB` | 🟢 Stable |
 | 🐧 **Linux** | `x86_64` (amd64) | **`.AppImage`** | All Linux Distros (No install required) | [📥 **Download .AppImage**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-x86_64.AppImage) | `~25.2 MB` | 🟢 Stable |
 | 🐧 **Linux** | `x86_64` (amd64) | **`.rpm`** | Fedora 38+, RHEL, CentOS Stream, openSUSE | [📥 **Download .rpm**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Linux.rpm) | `~8.6 MB` | 🟢 Stable |
 | 🪟 **Windows** | `x64` (64-bit) | **`.exe` (Setup)** | Windows 10 & Windows 11 (Standard Setup) | [📥 **Download Setup .exe**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Setup.exe) | `~14.8 MB` | 🟢 Stable |
