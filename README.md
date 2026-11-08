@@ -25,13 +25,13 @@ Download official production builds of **ScreenInk v1.0.0** for your operating s
 
 | Operating System | Architecture | Package Format | Recommended For | Direct Download Link | Package Size | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 🐧 **Linux** | `x86_64` (amd64) | **`.deb`** | Ubuntu 20.04+, Debian 11+, Linux Mint | [📥 **Download .deb**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Linux.deb) | `345K` | 🟢 Live |
-| 🐧 **Linux** | `x86_64` (amd64) | **`.AppImage`** | All Linux Distros (No install required) | [📥 **Download .AppImage**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-x86_64.AppImage) | `1.3M` | 🟢 Live |
-| 🐧 **Linux** | `x86_64` (amd64) | **`.rpm`** | Fedora 38+, RHEL, CentOS Stream, openSUSE | [📥 **Download .rpm**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Linux.rpm) | `290K` | 🟢 Live |
-| 🪟 **Windows** | `x64` (64-bit) | **`.exe` (Setup)** | Windows 10 & Windows 11 (Standard Setup) | [📥 **Download Setup .exe**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Setup.exe) | `511K` | 🟢 Live |
-| 🪟 **Windows** | `x64` (64-bit) | **`.zip` (Portable)** | Windows 10 & Windows 11 (Run without Admin) | [📥 **Download Portable .zip**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-win64-portable.zip) | `365K` | 🟢 Live |
-| 🍏 **macOS** | `Apple Silicon` (M1–M4) | **`.dmg`** | macOS 12 Monterey – macOS 15 Sequoia (ARM64) | [📥 **Download .dmg (ARM64)**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-arm64.dmg) | `1022K` | 🟢 Live |
-| 🍏 **macOS** | `Intel` (x86_64) | **`.dmg`** | macOS 12 Monterey – macOS 15 Sequoia (Intel) | [📥 **Download .dmg (Intel)**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-x86_64.dmg) | `1022K` | 🟢 Live |
+| **Linux** | `x86_64` (amd64) | **`.deb`** | Ubuntu 20.04+, Debian 11+, Linux Mint | [**Download .deb**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Linux.deb) | `345K` | Live |
+| **Linux** | `x86_64` (amd64) | **`.AppImage`** | All Linux Distros (No install required) | [**Download .AppImage**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-x86_64.AppImage) | `1.3M` | Live |
+| **Linux** | `x86_64` (amd64) | **`.rpm`** | Fedora 38+, RHEL, CentOS Stream, openSUSE | [**Download .rpm**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Linux.rpm) | `290K` | Live |
+| **Windows** | `x64` (64-bit) | **`.exe` (Setup)** | Windows 10 & Windows 11 (Standard Setup) | [**Download Setup .exe**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-Setup.exe) | `511K` | Live |
+| **Windows** | `x64` (64-bit) | **`.zip` (Portable)** | Windows 10 & Windows 11 (Run without Admin) | [**Download Portable .zip**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-win64-portable.zip) | `365K` | Live |
+| **macOS** | `Apple Silicon` (M1–M4) | **`.dmg`** | macOS 12 Monterey – macOS 15 Sequoia (ARM64) | [**Download .dmg (ARM64)**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-arm64.dmg) | `1022K` | Live |
+| **macOS** | `Intel` (x86_64) | **`.dmg`** | macOS 12 Monterey – macOS 15 Sequoia (Intel) | [**Download .dmg (Intel)**](https://github.com/MehediHasanSumon/screenink-docs/releases/download/v1.0.0/ScreenInk-1.0.0-x86_64.dmg) | `1022K` | Live |
 
 ---
 
